@@ -1,6 +1,6 @@
 ### → Hi there peopleeee 🇧🇦
 
- - 📚 High school student (Informatic, Ecnonomy, English specialities)
+ - 📚 High school student (Computer science, Ecnonomy, English specialities)
  
  - 🇫🇷 From France
  - <img alt="Python" width="18px" src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444"> Professionnal Python Developper
