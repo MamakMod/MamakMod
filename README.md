@@ -12,4 +12,4 @@
 
 ### → Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MamakMod&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MamakMod&langs_count=8)](https://github.com/MamakMod/github-readme-stats)
